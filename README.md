@@ -7,7 +7,7 @@ sudo dnf install git python3 php openssh -y
 For Termux
 pkg install git python3 python-pip php openssh -y
 Clone this repository
-git clone https://github.com/KasRoudra/PyPhisher
+git clone https://github.com/Djstudiosecu/Advancepyphisher/tree/main
 Enter the directory
 cd PyPhisher
 Install all modules
@@ -15,7 +15,7 @@ pip3 install -r files/requirements.txt --break-system-packages
 Run the tool
 python3 pyphisher.py
 Or, directly run
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget   https://github.com/Djstudiosecu/Advancepyphisher/tree/main  && python3 pyphisher.py
 
 Pip
 pip3 install pyphisher [For Termux]
