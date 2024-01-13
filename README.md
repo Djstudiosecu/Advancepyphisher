@@ -12,8 +12,7 @@ For Termux
 
 pkg install git python3 python-pip php openssh -y
 Clone this repository
-git clone https://github.com/Djstudiosecu/Advancepyphisher/tree/main
-
+git clone https://github.com/Djstudiosecu/Advancepyphisher
 Enter the directory
 
 cd PyPhisher
@@ -24,7 +23,7 @@ Run the tool
 python3 pyphisher.py
 
 Or, directly run
-wget   https://github.com/Djstudiosecu/Advancepyphisher/tree/main  && python3 pyphisher.py
+wget   https://github.com/Djstudiosecu/Advancepyphisher && python3 pyphisher.py
 
 Pip
 pip3 install pyphisher [For Termux]
